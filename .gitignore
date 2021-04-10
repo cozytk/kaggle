@@ -6,6 +6,7 @@ reated by https://www.toptal.com/developers/gitignore/api/macos,pycharm,python
 .DS_Store
 .AppleDouble
 .LSOverride
+.idea
 
 # Icon must end with two \r
 Icon
